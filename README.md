@@ -1,9 +1,9 @@
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 
-#Credits
+## Credits
 - Tutorial: Intro to React: https://reactjs.org/tutorial/tutorial.html
 
-#Practice features added from the tutorial
+## Practice features added from the tutorial
 - Display the location for each move in the format (col, row) in the move history list.
 - Bold the currently selected item in the move list.
 - Rewrite Board to use two loops to make the squares instead of hardcoding them.
